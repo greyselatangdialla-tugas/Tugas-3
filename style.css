@@ -1,0 +1,24 @@
+header form{
+    margin-left: 270px;
+}
+
+header h3{
+    color: WHITE;
+    margin-left: 570px;
+}
+
+.card {
+    background-color: white;
+}
+
+.card-body h5 {
+    color: white;
+}
+
+.card-body p {
+    color: white;
+}
+
+.col h1{
+    color: blanchedalmond;
+}
